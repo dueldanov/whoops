@@ -1,5 +1,5 @@
 {
-    "name": "arilas/whoops",
+    "name": "dueldanov/whoops",
     "description": "Whoops Implementation for Email Reporting",
     "minimum-stability": "dev",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "zendframework/zendframework": "2.*",
-        "filp/whoops": "1.*"
+        "filp/whoops": "2.*"
     },
     "autoload": {
         "psr-4": {
